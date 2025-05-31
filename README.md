@@ -1,16 +1,20 @@
-<<<<<<< HEAD
-# test-centre-app
-=======
-# React + Vite
+# Test Centre App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based app to search for UK driving test centres within a radius of your postcode.  
+It shows pass rates by gender and distance.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Search test centres within a specified radius (miles).  
+✅ Filter by gender (male/female).  
+✅ Shows distance and pass rates (rounded!).  
+✅ Clean, modern styling.
 
-## Expanding the ESLint configuration
+## 📦 Installation & Running
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 39381d6 (Initial commit with working TestCentreSearch)
+1. Clone this repo:
+
+```bash
+git clone https://github.com/YourUsername/test-centre-app.git
+cd test-centre-app
+```
